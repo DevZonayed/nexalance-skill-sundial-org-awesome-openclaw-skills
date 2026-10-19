@@ -4,6 +4,6 @@
   "dependencies": {
     "vega": "^5.30.0",
     "vega-lite": "^5.21.0",
-    "sharp": "^0.33.0"
+    "sharp": "^0.35.4"
   }
 }
